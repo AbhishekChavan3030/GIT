@@ -1,2 +1,0 @@
-this is my branch file 
-handled by mynewbranch branch 
